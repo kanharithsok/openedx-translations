@@ -467,5 +467,6 @@
   "learn.sequence.navigation.next.button": "ถัดไป",
   "learn.sequence.navigation.next.up.button": "ถัดไป: {title}",
   "learn.sequence.navigation.previous.button": "ก่อนหน้า",
-  "discussions.sidebar.open.button": "แสดงกระดานสนทนา"
+  "discussions.sidebar.open.button": "แสดงกระดานสนทนา",
+  "discussions.sidebar.open.button2": "test"
 }
