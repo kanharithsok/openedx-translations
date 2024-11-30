@@ -17560,7 +17560,7 @@ msgstr ""
 
 #: lms/templates/course.html:31
 msgid "Starts: {date}"
-msgstr ""
+msgstr "ចាប់ផ្ដើម: {date}"
 
 #: lms/templates/courses_list.html:22
 msgid "View all Courses"
