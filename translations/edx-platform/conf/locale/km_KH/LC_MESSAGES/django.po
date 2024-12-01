@@ -3597,7 +3597,7 @@ msgstr ""
 #: lms/djangoapps/course_home_api/outline/views.py:298
 #: lms/templates/courseware/course_about.html:86
 msgid "Course is full"
-msgstr ""
+msgstr "វគ្គសិក្សាពេញហើយ។"
 
 #: lms/djangoapps/course_home_api/outline/views.py:635
 msgid "'course_id' is required."
@@ -19875,23 +19875,23 @@ msgstr ""
 #: lms/templates/courseware/course_about.html:98
 #: lms/templates/dashboard/_dashboard_course_resume.html:21
 msgid "View Course"
-msgstr ""
+msgstr "មើលវគ្គសិក្សា"
 
 #: lms/templates/courseware/course_about.html:89
 msgid "Enrollment in this course is by invitation only"
-msgstr ""
+msgstr "ការចុះឈ្មោះក្នុងវគ្គសិក្សានេះគឺតាមរយៈការអញ្ជើញតែប៉ុណ្ណោះ"
 
 #: lms/templates/courseware/course_about.html:94
 msgid "Enrollment is Closed"
-msgstr ""
+msgstr "ការចុះឈ្មោះត្រូវបានបិទ"
 
 #: lms/templates/courseware/course_about.html:113
 msgid "Enroll Now"
-msgstr ""
+msgstr "ចុះឈ្មោះឥឡូវនេះ"
 
 #: lms/templates/courseware/course_about.html:145
 msgid "View About Page in studio"
-msgstr ""
+msgstr "មើលអំពីទំព័រនៅក្នុងស្ទូឌីយោ"
 
 #: lms/templates/courseware/course_about.html:173
 msgid "Classes Start"
