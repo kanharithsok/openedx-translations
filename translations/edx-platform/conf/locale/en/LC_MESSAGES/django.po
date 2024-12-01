@@ -23809,3 +23809,23 @@ msgstr ""
 #: lms/templates/courses.html:201
 msgid "Filter Course"
 msgstr ""
+
+#: lms/templates/courses.html:216
+msgid "Continuing Education"
+msgstr ""
+
+#: lms/templates/courses.html:89
+msgid "SEARCH"
+msgstr ""
+
+#: lms/templates/courses.html:62
+msgid "Welcome to CBC Academy Online Courses"
+msgstr ""
+
+#: lms/templates/courses.html:64
+msgid "Build up your skills. Explore courses here"
+msgstr ""
+
+#: lms/templates/courses.html:77
+msgid "What do you want to learn?"
+msgstr ""
