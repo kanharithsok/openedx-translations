@@ -23842,10 +23842,6 @@ msgstr ""
 msgid "Our edX learning experience is grounded in cutting-edge cognitive science. With more than two dozen distinct learning features to help you achieve your goals, our approach follows three key principles."
 msgstr ""
 
-#: lms/templates/footer.html:48
-msgid "Experience"
-msgstr ""
-
 #: lms/templates/footer.html:50
 msgid "Learn new knowledge and skills in a variety of ways, from engaging video lectures and dynamic graphics to data visualizations and interactive elements."
 msgstr ""

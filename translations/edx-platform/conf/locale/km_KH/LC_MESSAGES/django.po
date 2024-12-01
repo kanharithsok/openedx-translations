@@ -8260,7 +8260,7 @@ msgstr ""
 
 #: openedx/core/djangoapps/schedules/admin.py:139
 msgid "Experience"
-msgstr ""
+msgstr "បទពិសោធន៍"
 
 #: openedx/core/djangoapps/schedules/admin.py:159
 #: cms/templates/maintenance/_force_publish_course.html:15
@@ -23842,10 +23842,6 @@ msgstr "រៀននិងរីកចម្រើន"
 #: lms/templates/footer.html:43
 msgid "Our edX learning experience is grounded in cutting-edge cognitive science. With more than two dozen distinct learning features to help you achieve your goals, our approach follows three key principles."
 msgstr "បទពិសោធន៍សិក្សា edX របស់យើងមានមូលដ្ឋាននៅក្នុងវិទ្យាសាស្ត្រយល់ដឹងដ៏ទំនើប។ ជាមួយនឹងមុខងារសិក្សាផ្សេងៗគ្នាច្រើនជាងពីរ ដើម្បីជួយអ្នកឱ្យសម្រេចបាននូវគោលដៅរបស់អ្នក វិធីសាស្រ្តរបស់យើងអនុវត្តតាមគោលការណ៍សំខាន់ៗចំនួនបី។"
-
-#: lms/templates/footer.html:48
-msgid "Experience"
-msgstr "បទពិសោធន៍"
 
 #: lms/templates/footer.html:50
 msgid "Learn new knowledge and skills in a variety of ways, from engaging video lectures and dynamic graphics to data visualizations and interactive elements."
