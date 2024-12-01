@@ -23805,3 +23805,7 @@ msgstr ""
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr ""
+
+#: lms/templates/courses.html:201
+msgid "Filter Course"
+msgstr "តម្រងវគ្គសិក្សា"
