@@ -23805,3 +23805,75 @@ msgstr ""
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr ""
+
+#: lms/templates/courses.html:201
+msgid "Filter Course"
+msgstr ""
+
+#: lms/templates/courses.html:216
+msgid "Continuing Education"
+msgstr ""
+
+#: lms/templates/courses.html:89
+msgid "SEARCH"
+msgstr ""
+
+#: lms/templates/courses.html:62
+msgid "Welcome to CBC Academy Online Courses"
+msgstr ""
+
+#: lms/templates/courses.html:64
+msgid "Build up your skills. Explore courses here"
+msgstr ""
+
+#: lms/templates/courses.html:77
+msgid "What do you want to learn?"
+msgstr ""
+
+#: lms/templates/courses.html:153
+msgid "Explore top courses"
+msgstr ""
+
+#: lms/templates/footer.html:41
+msgid "Learn and Grow"
+msgstr ""
+
+#: lms/templates/footer.html:43
+msgid "Our edX learning experience is grounded in cutting-edge cognitive science. With more than two dozen distinct learning features to help you achieve your goals, our approach follows three key principles."
+msgstr ""
+
+#: lms/templates/footer.html:50
+msgid "Learn new knowledge and skills in a variety of ways, from engaging video lectures and dynamic graphics to data visualizations and interactive elements."
+msgstr ""
+
+#: lms/templates/footer.html:55
+msgid "Practice"
+msgstr ""
+
+#: lms/templates/footer.html:50
+msgid "Demonstrating your knowledge is a critical part of learning. edX courses and programs provide a space to practice with quizzes, open response assessments, virtual environments, and more."
+msgstr ""
+
+#: lms/templates/footer.html:55
+msgid "Apply"
+msgstr ""
+
+#: lms/templates/footer.html:50
+msgid "Learning on edX transforms how you think and what you can do, and translates directly into the real world—immediately apply your new capabilities in the context of your job."
+msgstr ""
+
+#: lms/templates/footer.html:123
+msgid "OUR PRODUCTS"
+msgstr ""
+
+#: lms/templates/footer.html:141
+msgid "REPORTS"
+msgstr ""
+
+#: lms/templates/footer.html:153
+msgid "CBC MEMBERS"
+msgstr ""
+
+#: lms/templates/footer.html:163
+msgid "ABOUT US"
+msgstr ""

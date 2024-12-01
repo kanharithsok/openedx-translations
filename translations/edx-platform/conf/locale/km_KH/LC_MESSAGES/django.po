@@ -3597,7 +3597,7 @@ msgstr ""
 #: lms/djangoapps/course_home_api/outline/views.py:298
 #: lms/templates/courseware/course_about.html:86
 msgid "Course is full"
-msgstr ""
+msgstr "វគ្គសិក្សាពេញហើយ។"
 
 #: lms/djangoapps/course_home_api/outline/views.py:635
 msgid "'course_id' is required."
@@ -6903,7 +6903,7 @@ msgstr ""
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:47
 #: themes/stanford-style/lms/templates/index.html:26
 msgid "Search"
-msgstr ""
+msgstr "ស្វែងរក"
 
 #: lms/templates/wiki/plugins/attachments/index.html:65
 #: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html:9
@@ -8260,7 +8260,7 @@ msgstr ""
 
 #: openedx/core/djangoapps/schedules/admin.py:139
 msgid "Experience"
-msgstr ""
+msgstr "បទពិសោធន៍"
 
 #: openedx/core/djangoapps/schedules/admin.py:159
 #: cms/templates/maintenance/_force_publish_course.html:15
@@ -17264,7 +17264,7 @@ msgstr ""
 #: lms/templates/header/user_dropdown.html:48
 #: lms/templates/user_dropdown.html:31 lms/templates/user_dropdown.html:39
 msgid "Account"
-msgstr ""
+msgstr "គណនី"
 
 #: cms/templates/widgets/header.html:346 cms/templates/widgets/header.html:361
 msgid "Account Navigation"
@@ -17570,7 +17570,7 @@ msgstr ""
 #: lms/templates/header/user_dropdown.html:44
 #: lms/templates/user_dropdown.html:30 lms/templates/user_dropdown.html:38
 msgid "Dashboard"
-msgstr ""
+msgstr "ផ្ទាំងគ្រប់គ្រង"
 
 #: lms/templates/dashboard.html:230
 msgid "results successfully populated,"
@@ -18357,21 +18357,21 @@ msgstr ""
 #: lms/templates/header/user_dropdown.html:32
 #: lms/templates/user_dropdown.html:24 lms/templates/user_dropdown.html:46
 msgid "Dashboard for:"
-msgstr ""
+msgstr "ផ្ទាំងគ្រប់គ្រងសម្រាប់៖"
 
 #: lms/templates/user_dropdown.html:29
 msgid "Usermenu"
-msgstr ""
+msgstr "ម៉ឺនុយអ្នកប្រើប្រាស់"
 
 #: lms/templates/user_dropdown.html:54
 msgid "More options"
-msgstr ""
+msgstr "ជម្រើសច្រើនទៀត"
 
 #: lms/templates/header/header.html:67
 #: lms/templates/header/user_dropdown.html:40
 #: lms/templates/user_dropdown.html:57
 msgid "More Options"
-msgstr ""
+msgstr "ជម្រើសច្រើនទៀត"
 
 #: lms/templates/using.html:4
 msgid "Using the system"
@@ -19875,23 +19875,23 @@ msgstr ""
 #: lms/templates/courseware/course_about.html:98
 #: lms/templates/dashboard/_dashboard_course_resume.html:21
 msgid "View Course"
-msgstr ""
+msgstr "មើលវគ្គសិក្សា"
 
 #: lms/templates/courseware/course_about.html:89
 msgid "Enrollment in this course is by invitation only"
-msgstr ""
+msgstr "ការចុះឈ្មោះក្នុងវគ្គសិក្សានេះគឺតាមរយៈការអញ្ជើញតែប៉ុណ្ណោះ"
 
 #: lms/templates/courseware/course_about.html:94
 msgid "Enrollment is Closed"
-msgstr ""
+msgstr "ការចុះឈ្មោះត្រូវបានបិទ"
 
 #: lms/templates/courseware/course_about.html:113
 msgid "Enroll Now"
-msgstr ""
+msgstr "ចុះឈ្មោះឥឡូវនេះ"
 
 #: lms/templates/courseware/course_about.html:145
 msgid "View About Page in studio"
-msgstr ""
+msgstr "មើលអំពីទំព័រនៅក្នុងស្ទូឌីយោ"
 
 #: lms/templates/courseware/course_about.html:173
 msgid "Classes Start"
@@ -21355,7 +21355,7 @@ msgstr ""
 
 #: lms/templates/header/user_dropdown.html:47
 msgid "Profile"
-msgstr ""
+msgstr "ប្រវត្តិរូប"
 
 #: lms/templates/header/user_dropdown.html:50
 msgid "Order History"
@@ -23805,3 +23805,76 @@ msgstr ""
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr ""
+
+#: lms/templates/courses.html:201
+msgid "Filter Course"
+msgstr "តម្រងវគ្គសិក្សា"
+
+#: lms/templates/courses.html:216
+msgid "Continuing Education"
+msgstr "ការអប់រំបន្ត"
+
+#: lms/templates/courses.html:89
+msgid "SEARCH"
+msgstr "ស្វែងរក"
+
+#: lms/templates/courses.html:62
+msgid "Welcome to CBC Academy Online Courses"
+msgstr "សូមស្វាគមន៍មកកាន់ CBC Academy Online Courses"
+
+#: lms/templates/courses.html:64
+msgid "Build up your skills. Explore courses here"
+msgstr "កសាងជំនាញរបស់អ្នក។ ស្វែងរកវគ្គសិក្សានៅទីនេះ"
+
+#: lms/templates/courses.html:77
+msgid "What do you want to learn?"
+msgstr "តើអ្នកចង់រៀនអ្វី?"
+
+#: lms/templates/courses.html:153
+msgid "Explore top courses"
+msgstr "ស្វែងរកវគ្គសិក្សាកំពូល"
+
+
+#: lms/templates/footer.html:41
+msgid "Learn and Grow"
+msgstr "រៀននិងរីកចម្រើន"
+
+#: lms/templates/footer.html:43
+msgid "Our edX learning experience is grounded in cutting-edge cognitive science. With more than two dozen distinct learning features to help you achieve your goals, our approach follows three key principles."
+msgstr "បទពិសោធន៍សិក្សា edX របស់យើងមានមូលដ្ឋាននៅក្នុងវិទ្យាសាស្ត្រយល់ដឹងដ៏ទំនើប។ ជាមួយនឹងមុខងារសិក្សាផ្សេងៗគ្នាច្រើនជាងពីរ ដើម្បីជួយអ្នកឱ្យសម្រេចបាននូវគោលដៅរបស់អ្នក វិធីសាស្រ្តរបស់យើងអនុវត្តតាមគោលការណ៍សំខាន់ៗចំនួនបី។"
+
+#: lms/templates/footer.html:50
+msgid "Learn new knowledge and skills in a variety of ways, from engaging video lectures and dynamic graphics to data visualizations and interactive elements."
+msgstr "ស្វែងយល់ពីចំណេះដឹង និងជំនាញថ្មីៗតាមវិធីជាច្រើន ចាប់ពីការបង្រៀនជាវីដេអូ និងក្រាហ្វិកថាមវន្ត រហូតដល់ការមើលឃើញទិន្នន័យ និងធាតុអន្តរកម្ម។"
+
+#: lms/templates/footer.html:55
+msgid "Practice"
+msgstr "អនុវត្ត"
+
+#: lms/templates/footer.html:50
+msgid "Demonstrating your knowledge is a critical part of learning. edX courses and programs provide a space to practice with quizzes, open response assessments, virtual environments, and more."
+msgstr "ការបង្ហាញចំណេះដឹងរបស់អ្នកគឺជាផ្នែកសំខាន់មួយនៃការសិក្សា។ វគ្គសិក្សា និងកម្មវិធី edX ផ្តល់កន្លែងសម្រាប់អនុវត្តជាមួយនឹងកម្រងសំណួរ ការវាយតម្លៃការឆ្លើយតបបើកចំហ បរិស្ថាននិម្មិត និងច្រើនទៀត។"
+
+#: lms/templates/footer.html:55
+msgid "Apply"
+msgstr "អនុវត្ត"
+
+#: lms/templates/footer.html:50
+msgid "Learning on edX transforms how you think and what you can do, and translates directly into the real world—immediately apply your new capabilities in the context of your job."
+msgstr "ការរៀននៅលើ edX បំប្លែងពីរបៀបដែលអ្នកគិត និងអ្វីដែលអ្នកអាចធ្វើបាន ហើយបកប្រែដោយផ្ទាល់ទៅក្នុងពិភពពិត—អនុវត្តសមត្ថភាពថ្មីរបស់អ្នកភ្លាមៗនៅក្នុងបរិបទនៃការងាររបស់អ្នក។"
+
+#: lms/templates/footer.html:123
+msgid "OUR PRODUCTS"
+msgstr "ផលិតផលរបស់យើង។"
+
+#: lms/templates/footer.html:141
+msgid "REPORTS"
+msgstr "របាយការណ៍"
+
+#: lms/templates/footer.html:153
+msgid "CBC MEMBERS"
+msgstr "សមាជិក CBC"
+
+#: lms/templates/footer.html:163
+msgid "ABOUT US"
+msgstr "អំពីយើង"
