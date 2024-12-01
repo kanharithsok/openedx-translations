@@ -9474,7 +9474,7 @@ msgstr ""
 #: lms/templates/discovery/course_card.underscore:17
 #, python-format
 msgid "Starts: %(start_date)s"
-msgstr "ចាប់ផ្តើម"
+msgstr "ចាប់ផ្តើម៖  %(start_date)s"
 
 #: lms/templates/discovery/course_card.underscore:26
 msgid "Starts"
