@@ -23829,3 +23829,7 @@ msgstr ""
 #: lms/templates/courses.html:77
 msgid "What do you want to learn?"
 msgstr ""
+
+#: lms/templates/courses.html:153
+msgid "Explore top courses"
+msgstr ""

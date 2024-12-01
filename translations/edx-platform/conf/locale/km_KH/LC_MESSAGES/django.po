@@ -21355,7 +21355,7 @@ msgstr ""
 
 #: lms/templates/header/user_dropdown.html:47
 msgid "Profile"
-msgstr ""
+msgstr "ប្រវត្តិរូប"
 
 #: lms/templates/header/user_dropdown.html:50
 msgid "Order History"
@@ -23829,3 +23829,7 @@ msgstr "កសាងជំនាញរបស់អ្នក។ ស្វែង�
 #: lms/templates/courses.html:77
 msgid "What do you want to learn?"
 msgstr "តើអ្នកចង់រៀនអ្វី?"
+
+#: lms/templates/courses.html:153
+msgid "Explore top courses"
+msgstr "ស្វែងរកវគ្គសិក្សាកំពូល"
