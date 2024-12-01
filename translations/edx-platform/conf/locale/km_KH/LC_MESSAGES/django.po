@@ -23833,3 +23833,52 @@ msgstr "តើអ្នកចង់រៀនអ្វី?"
 #: lms/templates/courses.html:153
 msgid "Explore top courses"
 msgstr "ស្វែងរកវគ្គសិក្សាកំពូល"
+
+
+#: lms/templates/footer.html:41
+msgid "Learn and Grow"
+msgstr "រៀននិងរីកចម្រើន"
+
+#: lms/templates/footer.html:43
+msgid "Our edX learning experience is grounded in cutting-edge cognitive science. With more than two dozen distinct learning features to help you achieve your goals, our approach follows three key principles."
+msgstr "បទពិសោធន៍សិក្សា edX របស់យើងមានមូលដ្ឋាននៅក្នុងវិទ្យាសាស្ត្រយល់ដឹងដ៏ទំនើប។ ជាមួយនឹងមុខងារសិក្សាផ្សេងៗគ្នាច្រើនជាងពីរ ដើម្បីជួយអ្នកឱ្យសម្រេចបាននូវគោលដៅរបស់អ្នក វិធីសាស្រ្តរបស់យើងអនុវត្តតាមគោលការណ៍សំខាន់ៗចំនួនបី។"
+
+#: lms/templates/footer.html:48
+msgid "Experience"
+msgstr "បទពិសោធន៍"
+
+#: lms/templates/footer.html:50
+msgid "Learn new knowledge and skills in a variety of ways, from engaging video lectures and dynamic graphics to data visualizations and interactive elements."
+msgstr "ស្វែងយល់ពីចំណេះដឹង និងជំនាញថ្មីៗតាមវិធីជាច្រើន ចាប់ពីការបង្រៀនជាវីដេអូ និងក្រាហ្វិកថាមវន្ត រហូតដល់ការមើលឃើញទិន្នន័យ និងធាតុអន្តរកម្ម។"
+
+#: lms/templates/footer.html:55
+msgid "Practice"
+msgstr "អនុវត្ត"
+
+#: lms/templates/footer.html:50
+msgid "Demonstrating your knowledge is a critical part of learning. edX courses and programs provide a space to practice with quizzes, open response assessments, virtual environments, and more."
+msgstr "ការបង្ហាញចំណេះដឹងរបស់អ្នកគឺជាផ្នែកសំខាន់មួយនៃការសិក្សា។ វគ្គសិក្សា និងកម្មវិធី edX ផ្តល់កន្លែងសម្រាប់អនុវត្តជាមួយនឹងកម្រងសំណួរ ការវាយតម្លៃការឆ្លើយតបបើកចំហ បរិស្ថាននិម្មិត និងច្រើនទៀត។"
+
+#: lms/templates/footer.html:55
+msgid "Apply"
+msgstr "អនុវត្ត"
+
+#: lms/templates/footer.html:50
+msgid "Learning on edX transforms how you think and what you can do, and translates directly into the real world—immediately apply your new capabilities in the context of your job."
+msgstr "ការរៀននៅលើ edX បំប្លែងពីរបៀបដែលអ្នកគិត និងអ្វីដែលអ្នកអាចធ្វើបាន ហើយបកប្រែដោយផ្ទាល់ទៅក្នុងពិភពពិត—អនុវត្តសមត្ថភាពថ្មីរបស់អ្នកភ្លាមៗនៅក្នុងបរិបទនៃការងាររបស់អ្នក។"
+
+#: lms/templates/footer.html:123
+msgid "OUR PRODUCTS"
+msgstr "ផលិតផលរបស់យើង។"
+
+#: lms/templates/footer.html:141
+msgid "REPORTS"
+msgstr "របាយការណ៍"
+
+#: lms/templates/footer.html:153
+msgid "CBC MEMBERS"
+msgstr "សមាជិក CBC"
+
+#: lms/templates/footer.html:163
+msgid "ABOUT US"
+msgstr "អំពីយើង"
