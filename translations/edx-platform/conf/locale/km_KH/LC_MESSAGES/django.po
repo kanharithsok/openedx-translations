@@ -6903,7 +6903,7 @@ msgstr ""
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:47
 #: themes/stanford-style/lms/templates/index.html:26
 msgid "Search"
-msgstr ""
+msgstr "ស្វែងរក"
 
 #: lms/templates/wiki/plugins/attachments/index.html:65
 #: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html:9
@@ -17570,7 +17570,7 @@ msgstr ""
 #: lms/templates/header/user_dropdown.html:44
 #: lms/templates/user_dropdown.html:30 lms/templates/user_dropdown.html:38
 msgid "Dashboard"
-msgstr ""
+msgstr "ផ្ទាំងគ្រប់គ្រង"
 
 #: lms/templates/dashboard.html:230
 msgid "results successfully populated,"
@@ -18357,21 +18357,21 @@ msgstr ""
 #: lms/templates/header/user_dropdown.html:32
 #: lms/templates/user_dropdown.html:24 lms/templates/user_dropdown.html:46
 msgid "Dashboard for:"
-msgstr ""
+msgstr "ផ្ទាំងគ្រប់គ្រងសម្រាប់៖"
 
 #: lms/templates/user_dropdown.html:29
 msgid "Usermenu"
-msgstr ""
+msgstr "ម៉ឺនុយអ្នកប្រើប្រាស់"
 
 #: lms/templates/user_dropdown.html:54
 msgid "More options"
-msgstr ""
+msgstr "ជម្រើសច្រើនទៀត"
 
 #: lms/templates/header/header.html:67
 #: lms/templates/header/user_dropdown.html:40
 #: lms/templates/user_dropdown.html:57
 msgid "More Options"
-msgstr ""
+msgstr "ជម្រើសច្រើនទៀត"
 
 #: lms/templates/using.html:4
 msgid "Using the system"
