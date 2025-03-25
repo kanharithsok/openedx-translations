@@ -23877,3 +23877,15 @@ msgstr ""
 #: lms/templates/footer.html:163
 msgid "ABOUT US"
 msgstr ""
+
+#: lms/templates/navbar-authenticated.html:43
+msgid "My Course"
+msgstr ""
+
+#: lms/templates/navbar-authenticated.html:49
+msgid "Explore Course"
+msgstr ""
+
+#: lms/templates/footer.html:116
+msgid "Change Language"
+msgstr ""

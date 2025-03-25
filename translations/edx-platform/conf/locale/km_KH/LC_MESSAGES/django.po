@@ -2842,7 +2842,7 @@ msgstr ""
 #: lms/djangoapps/branding/api.py:255 cms/templates/widgets/sock_links.html:35
 #: themes/stanford-style/lms/templates/static_templates/about.html:96
 msgid "Contact Us"
-msgstr ""
+msgstr "ទាក់ទងពួកយើង"
 
 #: lms/djangoapps/branding/api.py:256 lms/djangoapps/branding/api.py:292
 msgid "Help Center"
@@ -9670,7 +9670,7 @@ msgstr ""
 
 #: openedx/features/enterprise_support/templates/enterprise_support/admin/enrollment_attributes_override.html:15
 msgid "Home"
-msgstr ""
+msgstr "ទំព័រដើម"
 
 #: openedx/features/enterprise_support/templates/enterprise_support/admin/enrollment_attributes_override.html:17
 msgid "Enterprise Course Enrollments"
@@ -11689,7 +11689,7 @@ msgstr ""
 
 #: xmodule/library_content_block.py:83 cms/templates/widgets/header.html:285
 msgid "Library"
-msgstr ""
+msgstr "បណ្ណាល័យ"
 
 #: xmodule/library_content_block.py:84
 msgid "Select the library from which you want to draw content."
@@ -18577,7 +18577,7 @@ msgstr ""
 msgid ""
 "Welcome to {platform_name}. Thank you for using {platform_name}'s Course "
 "Discovery API, Enterprise API and/or any additional APIs that we may offer "
-"from time to time (collectively, the \"APIs\"). Please read these Terms of "
+"from time to time (collectively, the \"APIs\"). Please read these Terms of ""
 "Service prior to accessing or using the APIs. These Terms of Service, any "
 "additional terms within accompanying API documentation, and any applicable "
 "policies and guidelines that {platform_name} makes available and/or updates "
@@ -23878,3 +23878,15 @@ msgstr "សមាជិក CBC"
 #: lms/templates/footer.html:163
 msgid "ABOUT US"
 msgstr "អំពីយើង"
+
+#: lms/templates/navbar-authenticated.html:43
+msgid "My Course"
+msgstr "វគ្គសិក្សារបស់ខ្ញុំ"
+
+#: lms/templates/navbar-authenticated.html:49
+msgid "Explore Course"
+msgstr "ស្វែងរកវគ្គសិក្សា"
+
+#: lms/templates/footer.html:116
+msgid "Change Language"
+msgstr "ផ្លាស់ប្តូរភាសា"
