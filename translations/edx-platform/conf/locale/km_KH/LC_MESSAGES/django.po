@@ -547,7 +547,7 @@ msgstr ""
 #: lms/djangoapps/instructor/views/api.py:1485
 #: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:59
 msgid "Name"
-msgstr ""
+msgstr "ឈ្មោះ"
 
 #: cms/djangoapps/contentstore/video_storage_handlers.py:517
 msgid "Duration"
