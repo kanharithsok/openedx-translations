@@ -23882,7 +23882,7 @@ msgstr ""
 msgid "My Course"
 msgstr ""
 
-#: lms/templates/navbar-authenticated.html:49
+#: lms/templates/navbar-authenticated.html:50
 msgid "Explore Course"
 msgstr ""
 

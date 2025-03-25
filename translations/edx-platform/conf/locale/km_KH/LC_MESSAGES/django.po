@@ -23883,7 +23883,7 @@ msgstr "អំពីយើង"
 msgid "My Course"
 msgstr "វគ្គសិក្សារបស់ខ្ញុំ"
 
-#: lms/templates/navbar-authenticated.html:49
+#: lms/templates/navbar-authenticated.html:50
 msgid "Explore Course"
 msgstr "ស្វែងរកវគ្គសិក្សា"
 
