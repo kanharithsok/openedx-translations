@@ -4549,7 +4549,7 @@ msgstr ""
 #: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:53
 #: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:66
 msgid "Email"
-msgstr ""
+msgstr "អ៊ីមែល"
 
 #: lms/djangoapps/instructor/views/api.py:1487
 msgid "Language"
@@ -18577,7 +18577,7 @@ msgstr ""
 msgid ""
 "Welcome to {platform_name}. Thank you for using {platform_name}'s Course "
 "Discovery API, Enterprise API and/or any additional APIs that we may offer "
-"from time to time (collectively, the \"APIs\"). Please read these Terms of ""
+"from time to time (collectively, the \"APIs\"). Please read these Terms of "
 "Service prior to accessing or using the APIs. These Terms of Service, any "
 "additional terms within accompanying API documentation, and any applicable "
 "policies and guidelines that {platform_name} makes available and/or updates "
