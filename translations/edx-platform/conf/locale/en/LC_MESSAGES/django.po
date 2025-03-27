@@ -23889,3 +23889,7 @@ msgstr ""
 #: lms/templates/footer.html:116
 msgid "Change Language"
 msgstr ""
+
+#: lms/templates/index.html:116
+msgid "New top courses"
+msgstr ""
