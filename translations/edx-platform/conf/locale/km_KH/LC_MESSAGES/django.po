@@ -8722,7 +8722,7 @@ msgstr ""
 #: openedx/core/djangoapps/user_authn/api/form_fields.py:242
 #: openedx/core/djangoapps/user_authn/views/registration_form.py:946
 msgid "Last Name"
-msgstr ""
+msgstr "នាមត្រកូល"
 
 #. Translators: This label appears above a field
 #. which allows the user to input the State/Province/Region in which they
@@ -23891,6 +23891,42 @@ msgstr "ស្វែងរកវគ្គសិក្សា"
 msgid "Change Language"
 msgstr "ផ្លាស់ប្តូរភាសា"
 
-#: lms/templates/index.html:116
+#: lms/templates/index.html:159
 msgid "New top courses"
 msgstr "វគ្គសិក្សាកំពូលថ្មីៗ"
+
+#: lms/templates/contact.html:152
+msgid "Contact Us"
+msgstr "ទាក់ទងមកយើងខ្ញុំ"
+
+#: lms/templates/contact.html:154
+msgid "Any question or remarks? Just write us a message!"
+msgstr "សំណួរឬសុន្ទរកថា? គ្រាន់តែសរសេរសារមកយើង!"
+
+#: lms/templates/contact.html:161
+msgid "Contact Information"
+msgstr "ព័ត៌មានទំនាក់ទំនង"
+
+#: lms/templates/contact.html:162
+msgid "Say something to start a live chat!"
+msgstr "និយាយអ្វីមួយដើម្បីចាប់ផ្តើមការជជែកផ្ទាល់!"
+
+#: lms/templates/contact.html:207
+msgid "Phone Number"
+msgstr "លេខទូរស័ព្ទ"
+
+#: lms/templates/contact.html:215
+msgid "Select Subject?"
+msgstr "ជ្រើសរើសប្រធានបទ?"
+
+#: lms/templates/contact.html:218
+msgid "General Inquiry"
+msgstr "សំណួរទូទៅ"
+
+#: lms/templates/contact.html:243
+msgid "Message"
+msgstr "សារ"
+
+#: lms/templates/contact.html:243
+msgid "Send Message"
+msgstr "ផ្ញើសារ"
