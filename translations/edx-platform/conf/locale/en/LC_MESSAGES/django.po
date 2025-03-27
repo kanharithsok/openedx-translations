@@ -23894,10 +23894,6 @@ msgstr ""
 msgid "New top courses"
 msgstr ""
 
-#: lms/templates/contact.html:152
-msgid "Contact Us"
-msgstr ""
-
 #: lms/templates/contact.html:154
 msgid "Any question or remarks? Just write us a message!"
 msgstr ""

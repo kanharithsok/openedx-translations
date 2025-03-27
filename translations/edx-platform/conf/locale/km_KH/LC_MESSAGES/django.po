@@ -23895,10 +23895,6 @@ msgstr "ផ្លាស់ប្តូរភាសា"
 msgid "New top courses"
 msgstr "វគ្គសិក្សាកំពូលថ្មីៗ"
 
-#: lms/templates/contact.html:152
-msgid "Contact Us"
-msgstr "ទាក់ទងមកយើងខ្ញុំ"
-
 #: lms/templates/contact.html:154
 msgid "Any question or remarks? Just write us a message!"
 msgstr "សំណួរឬសុន្ទរកថា? គ្រាន់តែសរសេរសារមកយើង!"
