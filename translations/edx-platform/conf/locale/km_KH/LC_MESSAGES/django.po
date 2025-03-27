@@ -17790,7 +17790,7 @@ msgstr ""
 #: themes/stanford-style/lms/templates/index.html:22
 #: themes/stanford-style/lms/templates/index.html:23
 msgid "Search for a course"
-msgstr ""
+msgstr "ស្វែងរកវគ្គសិក្សា"
 
 #: lms/templates/index_overlay.html:8
 msgid "Welcome to {platform_name}"
