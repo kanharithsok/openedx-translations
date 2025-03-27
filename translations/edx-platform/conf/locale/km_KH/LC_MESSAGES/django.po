@@ -23923,6 +23923,6 @@ msgstr "សំណួរទូទៅ"
 msgid "Message"
 msgstr "សារ"
 
-#: lms/templates/contact.html:243
+#: lms/templates/contact.html:245
 msgid "Send Message"
 msgstr "ផ្ញើសារ"

@@ -23922,6 +23922,6 @@ msgstr ""
 msgid "Message"
 msgstr ""
 
-#: lms/templates/contact.html:243
+#: lms/templates/contact.html:245
 msgid "Send Message"
 msgstr ""
