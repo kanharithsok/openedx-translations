@@ -9474,7 +9474,7 @@ msgstr ""
 #: lms/templates/discovery/course_card.underscore:17
 #, python-format
 msgid "Starts: %(start_date)s"
-msgstr ""
+msgstr "ចាប់ផ្តើម៖  %(start_date)s"
 
 #: lms/templates/discovery/course_card.underscore:26
 msgid "Starts"
@@ -10075,7 +10075,7 @@ msgstr ""
 #: lms/templates/learner_dashboard/program_details_tab_view.underscore:143
 #: lms/templates/learner_dashboard/program_details_tab_view.underscore:172
 msgid "Learn More"
-msgstr ""
+msgstr "ស្វែងយល់បន្ថែម"
 
 #: lms/templates/learner_dashboard/program_details_sidebar.underscore:53
 #: lms/templates/learner_dashboard/program_details_tab_view.underscore:157
