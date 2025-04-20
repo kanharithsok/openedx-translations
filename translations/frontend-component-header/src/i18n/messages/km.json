@@ -33,5 +33,8 @@
     "header.user.menu.studio": "ផ្ទះស្ទូឌីយោ",
     "header.user.menu.maintenance": "ថែទាំ",
     "header.label.courseOutline": "ត្រលប់ទៅគ្រោងវគ្គសិក្សានៅក្នុងស្ទូឌីយោ",
-    "header.label.search.nav": "មាតិកាស្វែងរក"
+    "header.label.search.nav": "មាតិកាស្វែងរក",
+    "header.label.home": "ទំព័រដើម",
+    "header.label.myCourse": "វគ្គសិក្សារបស់ខ្ញុំ",
+    "header.label.exploreCourse": "ស្វែងរកវគ្គសិក្សា"
 }
