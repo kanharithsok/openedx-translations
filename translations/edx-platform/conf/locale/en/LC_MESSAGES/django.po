@@ -23929,3 +23929,7 @@ msgstr ""
 #: lms/templates/contact.html:177
 msgid "abc"
 msgstr "ABC"
+
+#: lms/templates/footer.html:93
+msgid "©2025 Credit Bureau Cambodia. All rights reserved."
+msgstr ""

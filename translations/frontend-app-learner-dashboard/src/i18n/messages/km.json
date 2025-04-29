@@ -173,5 +173,8 @@
     "reports": "របាយការណ៍",
     "browseCourses": "ផលិតផលរបស់យើង",
     "myCourse": "វគ្គសិក្សាខ្ញុំ",
-    "cbcMembers": "សមាជិក CBC"
+    "cbcMembers": "សមាជិក CBC",
+    "learnerVariantDashboard.home": "ទំព័រដើម",
+    "learnerVariantDashboard.myCourse": "វគ្គសិក្សារបស់ខ្ញុំ",
+    "learnerVariantDashboard.exploreCourse": "ស្វែងរកវគ្គសិក្សា"
 }
