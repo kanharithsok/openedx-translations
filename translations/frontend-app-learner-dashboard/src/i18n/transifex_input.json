@@ -145,5 +145,9 @@
   "learner-dash.courseCard.banners.credit.viewDetails": "View Details",
   "learnerVariantDashboard.home": "Home",
   "learnerVariantDashboard.myCourse": "My Course",
-  "learnerVariantDashboard.exploreCourse": "Explore Course"
+  "learnerVariantDashboard.exploreCourse": "Explore Course",
+  "learnerVariantDashboard.library": "Library",
+  "learnerVariantDashboard.account": "Account",
+  "learnerVariantDashboard.contactUs": "Contact Us",
+  "learnerVariantDashboard.allRightsReserved": "&copy; 2025 Credit Bureau Cambodia. All rights reserved."
 }
