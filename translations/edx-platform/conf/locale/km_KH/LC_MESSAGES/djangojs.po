@@ -7473,7 +7473,7 @@ msgstr ""
 
 #: cms/templates/js/course-video-sharing-enable.underscore:13
 msgid "Learn more"
-msgstr ""
+msgstr "ស្វែងយល់បន្ថែម"
 
 #: cms/templates/js/course-video-transcript-preferences.underscore:3
 msgid "Transcript Turnaround"
@@ -8754,7 +8754,7 @@ msgstr ""
 #: common/static/common/templates/discussion/templates.underscore:488
 #: lms/templates/verify_student/incourse_reverify.underscore:62
 msgid "Submit"
-msgstr ""
+msgstr "ដាក់ស្នើ"
 
 #: common/static/common/templates/discussion/templates.underscore:74
 #, python-format
@@ -9469,7 +9469,7 @@ msgstr ""
 
 #: lms/templates/discovery/course_card.underscore:6
 msgid "LEARN MORE"
-msgstr ""
+msgstr "ស្វែងយល់បន្ថែម"
 
 #: lms/templates/discovery/course_card.underscore:17
 #, python-format
