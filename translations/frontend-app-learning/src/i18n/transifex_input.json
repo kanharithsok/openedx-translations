@@ -131,5 +131,12 @@
   "calculator.instruction.table.to.use.scientific.notation.type2": "{notationSyntax} notation",
   "calculator.instruction.table.to.use.scientific.notation.type3": "{notationSyntax} and the exponent",
   "learn.honorCode.content": "Honesty and academic integrity are important to {siteName} and the institutions providing courses and programs on the {siteName} site. By clicking “I agree” below, I confirm that I have read, understand, and will abide by the {link} for the {siteName} Site.",
-  "learn.course.sequence.navigation.mobile.menu": "{current} of {total}"
+  "learn.course.sequence.navigation.mobile.menu": "{current} of {total}",
+  "learnerVariantDashboard.home": "Home",
+  "learnerVariantDashboard.myCourse": "My Course",
+  "learnerVariantDashboard.exploreCourse": "Explore Course",
+  "learnerVariantDashboard.library": "Library",
+  "learnerVariantDashboard.account": "Account",
+  "learnerVariantDashboard.contactUs": "Contact Us",
+  "learnerVariantDashboard.allRightsReserved": "© 2025 Credit Bureau Cambodia. All rights reserved."
 }
