@@ -23941,3 +23941,15 @@ msgstr ""
 #: lms/templates/courseware/courses.html:62
 msgid "Find Online Courses CBC Academy"
 msgstr ""
+
+#: lms/templates/courseware/index.html:157
+msgid "Recently Viewed Courses"
+msgstr ""
+
+#: lms/templates/courseware/index.html:164
+msgid "Most Popular Courses"
+msgstr ""
+
+#: lms/templates/courseware/index.html:179
+msgid "New Courses on CBC Academy"
+msgstr ""
