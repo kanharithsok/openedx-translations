@@ -19992,7 +19992,7 @@ msgstr ""
 #: lms/templates/courseware/courses.html:72
 #: lms/templates/courseware/courses.html:73
 msgid "Refine Your Search"
-msgstr "កែលម្អការស្វែងរករបស់អ្នក។"
+msgstr "កែលម្អការស្វែងរករបស់អ្នក"
 
 #: lms/templates/courseware/courseware-chromeless.html:100
 #: lms/templates/courseware/courseware.html:308
@@ -23936,7 +23936,7 @@ msgstr "© 2025 ការិយាល័យឥណទានកម្ពុជា�
 
 #: lms/templates/courseware/courses.html:209
 msgid "Result for 'free courses online'"
-msgstr "កែលម្អការស្វែងរករបស់អ្នក។"
+msgstr "លទ្ធផលសម្រាប់ 'វគ្គសិក្សាឥតគិតថ្លៃ'"
 
 #: lms/templates/courseware/courses.html:62
 msgid "Find Online Courses CBC Academy"
