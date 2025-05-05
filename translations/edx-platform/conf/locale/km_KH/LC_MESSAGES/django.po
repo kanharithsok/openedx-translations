@@ -19992,7 +19992,7 @@ msgstr ""
 #: lms/templates/courseware/courses.html:72
 #: lms/templates/courseware/courses.html:73
 msgid "Refine Your Search"
-msgstr ""
+msgstr "កែលម្អការស្វែងរករបស់អ្នក។"
 
 #: lms/templates/courseware/courseware-chromeless.html:100
 #: lms/templates/courseware/courseware.html:308
@@ -23931,5 +23931,13 @@ msgid "abc"
 msgstr "កខគ"
 
 #: lms/templates/footer.html:93
-msgid "©2024 Credit Bureau Cambodia. All rights reserved."
+msgid "© 2025 Credit Bureau Cambodia. All rights reserved."
 msgstr "© 2025 ការិយាល័យឥណទានកម្ពុជា។ រក្សាសិទ្ធិគ្រប់យ៉ាង។"
+
+#: lms/templates/courseware/courses.html:209
+msgid "Result for 'free courses online'"
+msgstr "កែលម្អការស្វែងរករបស់អ្នក។"
+
+#: lms/templates/courseware/courses.html:62
+msgid "Find Online Courses CBC Academy"
+msgstr "ស្វែងរកវគ្គសិក្សាតាមអ៊ីនធឺណិត CBC Academy"

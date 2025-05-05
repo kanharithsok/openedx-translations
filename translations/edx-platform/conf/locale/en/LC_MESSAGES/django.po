@@ -23931,5 +23931,13 @@ msgid "abc"
 msgstr "ABC"
 
 #: lms/templates/footer.html:93
-msgid "©2025 Credit Bureau Cambodia. All rights reserved."
+msgid "© 2025 Credit Bureau Cambodia. All rights reserved."
+msgstr ""
+
+#: lms/templates/courseware/courses.html:209
+msgid "Result for 'free courses online'"
+msgstr ""
+
+#: lms/templates/courseware/courses.html:62
+msgid "Find Online Courses CBC Academy"
 msgstr ""
