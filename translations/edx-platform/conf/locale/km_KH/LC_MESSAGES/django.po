@@ -23932,7 +23932,7 @@ msgstr "កខគ"
 
 #: lms/templates/footer.html:93
 msgid "© 2025 Credit Bureau Cambodia. All rights reserved."
-msgstr "© 2025 ការិយាល័យឥណទានកម្ពុជា។ រក្សាសិទ្ធិគ្រប់យ៉ាង។"
+msgstr "© ២០២៥ ការិយាល័យឥណទានកម្ពុជា។ រក្សាសិទ្ធិគ្រប់យ៉ាង។"
 
 #: lms/templates/courseware/courses.html:209
 msgid "Result for 'free courses online'"
