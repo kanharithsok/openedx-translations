@@ -4095,7 +4095,7 @@ msgstr ""
 #: lms/templates/lti_provider/user-auth-error.html:30
 #: lms/templates/navigation/navbar-not-authenticated.html:49
 msgid "Sign in"
-msgstr ""
+msgstr "ចូល"
 
 #: lms/djangoapps/courseware/views/views.py:588
 #, python-brace-format
@@ -9751,7 +9751,7 @@ msgstr ""
 #: themes/red-theme/lms/templates/ace_common/edx_ace/common/base_body.html:70
 #: cms/templates/widgets/header.html:374
 msgid "Sign In"
-msgstr ""
+msgstr "ចូល"
 
 #: themes/red-theme/lms/templates/ace_common/edx_ace/common/base_body.html:176
 msgid "Our mailing address is"
