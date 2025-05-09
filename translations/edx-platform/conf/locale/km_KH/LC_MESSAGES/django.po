@@ -664,7 +664,7 @@ msgstr ""
 #: lms/djangoapps/discussion/templates/discussion/discussion_profile_page.html:48
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:24
 msgid "Discussion"
-msgstr ""
+msgstr "ការពិភាក្សា"
 
 #: cms/djangoapps/contentstore/views/component.py:267
 #: lms/templates/video.html:57
@@ -7173,7 +7173,7 @@ msgstr ""
 #: openedx/features/course_bookmarks/templates/course_bookmarks/course-bookmarks.html:43
 #: openedx/features/course_bookmarks/templates/course_bookmarks/course-bookmarks.html:50
 msgid "Bookmarks"
-msgstr ""
+msgstr "ចំណាំ"
 
 #: openedx/core/djangoapps/bookmarks/views.py:39
 msgid "An error has occurred. Please try again."
@@ -17482,7 +17482,7 @@ msgstr ""
 msgid ""
 "This is a private discussion. You do not have permissions to view this "
 "discussion"
-msgstr ""
+msgstr "ការពិភាក្សា"
 
 #: lms/djangoapps/discussion/templates/discussion/discussion_profile_page.html:55
 #: lms/templates/discussion/_user_profile.html:8
