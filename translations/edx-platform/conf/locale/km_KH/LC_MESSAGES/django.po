@@ -3753,11 +3753,11 @@ msgstr ""
 
 #: lms/djangoapps/courseware/date_summary.py:273
 msgid "Course starts"
-msgstr ""
+msgstr "វគ្គសិក្សាចាប់ផ្តើម"
 
 #: lms/djangoapps/courseware/date_summary.py:281
 msgid "Course ends"
-msgstr ""
+msgstr "វគ្គសិក្សាបញ្ចប់"
 
 #: lms/djangoapps/courseware/date_summary.py:298
 msgid ""
@@ -3770,7 +3770,7 @@ msgstr ""
 msgid ""
 "After the course ends, the course content will be archived and no longer "
 "active."
-msgstr ""
+msgstr "បន្ទាប់ពីបញ្ចប់វគ្គសិក្សា ខ្លឹមសារនៃវគ្គសិក្សានឹងត្រូវបានទុកក្នុងប័ណ្ណសារ និងលែងសកម្មទៀតហើយ។"
 
 #: lms/djangoapps/courseware/date_summary.py:304
 msgid ""
@@ -3911,7 +3911,7 @@ msgstr ""
 #: lms/templates/peer_grading/peer_grading.html:41
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:30
 msgid "Progress"
-msgstr ""
+msgstr "វឌ្ឍនភាព"
 
 #: lms/djangoapps/courseware/plugins.py:28
 msgid "Keep learners engaged and on track throughout the course."
@@ -3977,7 +3977,7 @@ msgstr ""
 #: lms/templates/courseware/courseware.html:215
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:21
 msgid "Course"
-msgstr ""
+msgstr "វគ្គសិក្សា"
 
 #: lms/djangoapps/courseware/tabs.py:63
 #: lms/templates/courseware/syllabus.html:21
@@ -3986,7 +3986,7 @@ msgstr ""
 
 #: lms/djangoapps/courseware/tabs.py:307
 msgid "Dates"
-msgstr ""
+msgstr "កាលបរិច្ឆេទ"
 
 #: lms/djangoapps/courseware/views/index.py:234
 #, python-brace-format
@@ -7419,7 +7419,7 @@ msgstr ""
 
 #: openedx/core/djangoapps/content_libraries/models.py:267
 msgid "progress"
-msgstr ""
+msgstr "វឌ្ឍនភាព"
 
 #: openedx/core/djangoapps/content_libraries/models.py:268
 msgid "A float from 0.0 to 1.0 representing the task progress."
@@ -11583,7 +11583,7 @@ msgstr ""
 #: xmodule/graders.py:415
 #, python-brace-format
 msgid "The lowest {drop_count} {section_type} scores are dropped."
-msgstr ""
+msgstr "ពិន្ទុ {drop_count} {section_type} ទាបបំផុតត្រូវបានទម្លាក់"
 
 #. Translators: "Homework Average = 0%"
 #: xmodule/graders.py:433
@@ -13315,7 +13315,7 @@ msgstr ""
 #: lms/templates/ccx/schedule.html:53
 #: lms/templates/instructor/instructor_dashboard_2/certificates.html:168
 msgid "Date"
-msgstr ""
+msgstr "កាលបរិច្ឆេទ"
 
 #: wiki/plugins/attachments/templates/wiki/plugins/attachments/history.html:12
 msgid "User"
