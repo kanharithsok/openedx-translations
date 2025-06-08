@@ -322,5 +322,10 @@
     "id.verification.requirements.card.device.text": "អ្នកត្រូវការឧបករណ៍ដែលមានកាមេរ៉ា។ ប្រសិនបើអ្នកទទួលបានសារប្រាប់ពីកម្មវិធីរុករកតាមអ៊ីនធឺណិតសម្រាប់ការចូលប្រើកាមេរ៉ារបស់អ្នក សូមប្រាកដថាត្រូវចុច {allow}",
     "id.verification.account.name.summary.alert": "ការកំណត់គណនីរបស់អ្នកត្រូវបានគ្រប់គ្រងដោយ {managerTitle}។ ប្រសិនបើឈ្មោះនៅលើលេខសម្គាល់រូបថតរបស់អ្នកមិនត្រូវគ្នានឹងឈ្មោះនៅលើគណនីរបស់អ្នក សូមទាក់ទងអ្នកគ្រប់គ្រង {profileDataManager} របស់អ្នក ឬ { support} សម្រាប់ជំនួយ។",
     "idv.submission.alert.error": "យើងបានជួបប្រទះបញ្ហាបច្ចេកទេសខណៈពេលកំពុងព្យាយាមបញ្ជូនការផ្ទៀងផ្ទាត់អត្តសញ្ញាណ។ នេះអាចជាបញ្ហាបណ្តោះអាសន្ន ដូច្នេះសូមព្យាយាមម្តងទៀតក្នុងរយៈពេលពីរបីនាទីទៀត។ ប្រសិនបើបញ្ហានៅតែបន្តកើតមាន សូមចូលទៅកាន់ {support_link} សម្រាប់ជំនួយ។ ",
-    "id.verification.account.name.edit": "កែសម្រួល {sr}"
+    "id.verification.account.name.edit": "កែសម្រួល {sr}",
+    
+    "learnerVariantDashboard.library": "បណ្ណាល័យ",
+    "learnerVariantDashboard.account": "គណនី",
+    "learnerVariantDashboard.contactUs": "ទាក់ទងមកយើងខ្ញុំ",
+    "learnerVariantDashboard.allRightsReserved": "© ២០២៥ ការិយាល័យឥណទានកម្ពុជា។ រក្សាសិទ្ធិគ្រប់យ៉ាង។"
 }

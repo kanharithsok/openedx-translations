@@ -54,5 +54,10 @@
   "profile.formcontrols.button.saving": "Saving",
   "profile.formcontrols.button.saved": "Saved",
   "profile.visibility.who.just.me": "Just me",
-  "profile.visibility.who.everyone": "Everyone on {siteName}"
+  "profile.visibility.who.everyone": "Everyone on {siteName}",
+
+  "learnerVariantDashboard.library": "Library",
+  "learnerVariantDashboard.account": "Account",
+  "learnerVariantDashboard.contactUs": "Contact Us",
+  "learnerVariantDashboard.allRightsReserved": "© 2025 Cambodian Credit Bureau. All rights reserved."
 }
