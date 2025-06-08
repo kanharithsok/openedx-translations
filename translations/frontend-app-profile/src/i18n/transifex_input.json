@@ -56,6 +56,7 @@
   "profile.visibility.who.just.me": "Just me",
   "profile.visibility.who.everyone": "Everyone on {siteName}",
 
+  "learnerVariantDashboard.myCourse": "My Courses",
   "learnerVariantDashboard.library": "Library",
   "learnerVariantDashboard.account": "Account",
   "learnerVariantDashboard.contactUs": "Contact Us",

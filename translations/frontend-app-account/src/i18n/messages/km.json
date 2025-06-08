@@ -324,6 +324,7 @@
     "idv.submission.alert.error": "យើងបានជួបប្រទះបញ្ហាបច្ចេកទេសខណៈពេលកំពុងព្យាយាមបញ្ជូនការផ្ទៀងផ្ទាត់អត្តសញ្ញាណ។ នេះអាចជាបញ្ហាបណ្តោះអាសន្ន ដូច្នេះសូមព្យាយាមម្តងទៀតក្នុងរយៈពេលពីរបីនាទីទៀត។ ប្រសិនបើបញ្ហានៅតែបន្តកើតមាន សូមចូលទៅកាន់ {support_link} សម្រាប់ជំនួយ។ ",
     "id.verification.account.name.edit": "កែសម្រួល {sr}",
     
+    "learnerVariantDashboard.myCourse": "វគ្គសិក្សារបស់ខ្ញុំ",
     "learnerVariantDashboard.library": "បណ្ណាល័យ",
     "learnerVariantDashboard.account": "គណនី",
     "learnerVariantDashboard.contactUs": "ទាក់ទងមកយើងខ្ញុំ",
